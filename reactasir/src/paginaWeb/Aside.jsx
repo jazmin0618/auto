@@ -7,7 +7,6 @@ function Aside() {
     <aside>
       <BasicSelect/>
       <h1>HOLA MUNDO</h1>
-      <P>holaa</P>
       <div>
       </div>
     </aside>
