@@ -6,7 +6,7 @@ function Aside() {
   return (
     <aside>
       <BasicSelect/>
-      <h1>MORGADO ASIRR</h1>
+      <h1>MORGADO DAWW</h1>
       <div>
       </div>
     </aside>
